@@ -1,0 +1,10 @@
+Package: miscVS
+Type: Package
+Version: 0.1-0
+Date: 2019-06-20
+Title: Miscellaneous Functions for Vertical Sample Splitting
+Author: Vahid Nassiri
+Maintainer: vnassiri <vahid.nassiri@openanalytics.eu>
+Description: Functions to help random and structured vertical sample splitting. 
+License: GPL (>=2)
+RoxygenNote: 6.1.1
